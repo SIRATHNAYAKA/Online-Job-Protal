@@ -60,7 +60,7 @@ This project is licensed under the **Educational Use License (EUL)**.
 See the **LICENSE** file for full terms.
 
 ## Author
-**CodeAstro**  
-https://codeastro.com
+**Sachin Rathnayaka**  
+https://blackstudio.site
 
-© 2026 CodeAstro. All rights reserved.
+© 2026 Sachin Rathnayaka. All rights reserved.
