@@ -1,6 +1,6 @@
 Educational Use License (EUL) v1.0
 
-Copyright © 2026 CodeAstro
+Copyright © 2026 Sachin Rathnayaka
 All rights reserved.
 
 Permission is hereby granted to any individual to view, study, and use this project
@@ -33,7 +33,7 @@ the permissions granted herein.
 For permissions beyond the scope of this license, including commercial use or
 redistribution, please contact:
 
-CodeAstro
-https://codeastro.com
+SachinRathnayaka
+https://blackstudio.site
 
 End of License
